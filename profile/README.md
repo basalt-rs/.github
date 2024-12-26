@@ -5,12 +5,15 @@ Basalt is a set of applications for hosting a local programming competition.
 There are two parts to Basalt, each of which are broken into smaller
 pieces:
 
-- The server
+- **Server**
     - Sandboxed Test Runner
-        - [leucite](https://crates.io/crates/leucite)
+        - **Leucite** [[Source](https://github.com/basalt-rs/leucite)] [[Crate and Docs](https://crates.io/crates/leucite)]
     - HTTP Server
-- The client (host/competitor UI)
-    - Web bundler -- for bundling the web application into the server
-    - Tauri + Next.js
+- **Client** [[Source](https://github.com/basalt-rs/basalt)] [[Docs](https://github.com/basalt-rs/basalt/wiki)]
+    - **Web Application** (NextJS)
+    - **Desktop Application** (Tauri + Web Application)
+    - **Web Bundler** *provides an embeddable instance of the Web Application in Rust*
 
-
+To stay organized, we have logically separate repositories and libraries that account for required functionality.
+[Leucite](https://crates.io/crates/leucite) for example is a library we created to easily create sandboxed execution
+environments.
