@@ -6,9 +6,9 @@ There are two parts to Basalt, each of which are broken into smaller
 pieces:
 
 - **Server**
-    - Sandboxed Test Runner
-        - **Leucite** [[Source](https://github.com/basalt-rs/leucite)] [[Crate and Docs](https://crates.io/crates/leucite)]
-    - HTTP Server
+    - **leucite** [[Source](https://github.com/basalt-rs/leucite)] [[Crate](https://crates.io/crates/leucite)] [[Docs](https://docs.rs/leucite)] - Sandboxed environment for running commands
+    - **erudite** [[Source](https://github.com/basalt-rs/erudite)] - Parallel test runner that uses leucite for sandboxing
+    - **basalt-server** [[Source](https://github.com/basalt-rs/basalt-server)] - Server runtime for Basalt competitions 
 - **Client** [[Source](https://github.com/basalt-rs/basalt)] [[Docs](https://github.com/basalt-rs/basalt/wiki)]
     - **Web Application** (NextJS)
     - **Desktop Application** (Tauri + Web Application)
