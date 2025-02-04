@@ -10,7 +10,7 @@ pieces:
 - **Server**
     - **leucite** [[Source](https://github.com/basalt-rs/leucite)] [[Crate](https://crates.io/crates/leucite)] [[Docs](https://docs.rs/leucite)] - Sandboxed environment for running commands
     - **erudite** [[Source](https://github.com/basalt-rs/erudite)] [[Docs](https://basalt-rs.github.io/erudite/)] - Parallel test runner that uses `leucite` for sandboxing
-    - **basalt-server** [[Source](https://github.com/basalt-rs/basalt-server)] - Server runtime for Basalt competitions 
+    - **basalt-server** [[Source](https://github.com/basalt-rs/basalt-server)] [[API Documentation](https://basalt-rs.github.io/basalt-server/)] - Server runtime for Basalt competitions 
 - **Client** [[Source](https://github.com/basalt-rs/basalt)] [[Docs](https://github.com/basalt-rs/basalt/wiki)]
     - **Web Application** (NextJS)
     - **Desktop Application** (Tauri + Web Application)
