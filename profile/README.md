@@ -7,6 +7,13 @@ Documentation for usage of Basalt can be found at <https://basalt-rs.github.io>
 There are two core parts of Basalt, each of which are broken into smaller
 pieces:
 
+# Community
+
+* [Matrix](https://matrix.to/#/#basalt-rs:matrix.org)
+* [Discord (_will likely be deprecated_)](https://matrix.to/#/#basalt-rs:matrix.org)
+
+# Stack
+
 - **Server**
     - **leucite** [[Source](https://github.com/basalt-rs/leucite)] [[Crate](https://crates.io/crates/leucite)] [[Docs](https://docs.rs/leucite)] - Sandboxed environment for running commands
     - **erudite** [[Source](https://github.com/basalt-rs/erudite)] [[Docs](https://basalt-rs.github.io/erudite/)] - Parallel test runner that uses `leucite` for sandboxing
