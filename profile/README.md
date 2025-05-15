@@ -9,8 +9,8 @@ pieces:
 
 # Community
 
-* [Matrix](https://matrix.to/#/#basalt-rs:matrix.org)
-* [Discord (_will likely be deprecated_)](https://matrix.to/#/#basalt-rs:matrix.org)
+* [Discord (_primary_)](https://matrix.to/#/#basalt-rs:matrix.org)
+* [Matrix)](https://matrix.to/#/#basalt-rs:matrix.org)
 
 # Stack
 
