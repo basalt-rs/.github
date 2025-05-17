@@ -10,7 +10,7 @@ pieces:
 # Community
 
 * [Discord (_primary_)](https://discord.gg/jTGXMPgp6J)
-* [Matrix)](https://matrix.to/#/#basalt-rs:matrix.org)
+* [Matrix](https://matrix.to/#/#basalt-rs:matrix.org)
 
 # Stack
 
