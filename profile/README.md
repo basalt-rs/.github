@@ -1,4 +1,4 @@
-# Basalt
+![alt text](https://github.com/basalt-rs/assets/blob/main/BASAltKeys/keys-mm-white.svg?raw=true)
 
 Basalt is a free and open source suite of programs for creating, hosting, and participating in local programming competitions.
 
